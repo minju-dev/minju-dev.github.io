@@ -20,24 +20,23 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Minju's Vlog
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  저의 기록을 채워나갈 새로운 블로그를 시작합니다.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               하고픈게 많은 욕심쟁이 개발자 공부 중!
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [coding, minju, git, blog, study]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/me/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
